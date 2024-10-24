@@ -1,1 +1,1 @@
-[Characters](/characters)
+[Characters](characters)
