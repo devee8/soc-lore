@@ -1,3 +1,3 @@
 # Characters
 
-* [Gloria](/characters/gloria)
+* [Gloria](/characters/gloria.md)
