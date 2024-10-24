@@ -4,3 +4,4 @@ plugins:
 title: SoC Lore
 description: Character and lore for the game Sword of Convallaria
 show_downloads: false
+baseurl: "/soc-lore"
