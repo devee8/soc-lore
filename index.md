@@ -1,1 +1,3 @@
-Index page
+# Characters
+
+* [Gloria](/characters/gloria)
