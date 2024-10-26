@@ -74,6 +74,7 @@ footer {
 /* small screens */
 @media (max-width: 600px) {
     .container {
+        min-width: none;
         width: 100%;
     }
 
