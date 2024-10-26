@@ -21,43 +21,45 @@
 </head>
 
 <body>
+  <div class="container">
 
-  <header>
-    <h1>{{ site.title | default: site.github.repository_name }}</h1>
-    <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-  </header>
+    <header>
+      <h1>{{ site.title | default: site.github.repository_name }}</h1>
+      <h2>{{ site.description | default: site.github.project_tagline }}</h2>
+    </header>
 
-  <nav>
-    <div class="hamburger" onclick="toggleMenu()">☰</div>
-    <ul class="nav-list">
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
-    </ul>
-  </nav>
+    <nav>
+      <div class="hamburger" onclick="toggleMenu()">☰</div>
+      <ul class="nav-list">
+        <li><a href="#">Home</a></li>
+        <li><a href="#">About</a></li>
+      </ul>
+    </nav>
 
-  <main>
-    {% include menu.html %}
-    {{ content }}
-  </main>
+    <main>
+      {% include menu.html %}
+      {{ content }}
+    </main>
 
-  <footer>
-    <div>
+    <footer>
       <div>
-        {% if site.github.is_project_page %}
-        <p>this project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a
-            href="{{ site.github.repository_url }}">GitHub</a></p>
-        {% endif %}
-        {% if site.github.is_user_page %}
-        <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a
-            href="{{ site.github.repository_url }}">GitHub</a></p>
-        {% endif %}
+        <div>
+          {% if site.github.is_project_page %}
+          <p>this project by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a
+              href="{{ site.github.repository_url }}">GitHub</a></p>
+          {% endif %}
+          {% if site.github.is_user_page %}
+          <p>Projects by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> can be found on <a
+              href="{{ site.github.repository_url }}">GitHub</a></p>
+          {% endif %}
+        </div>
       </div>
-    </div>
-  </footer>
+    </footer>
 
+  </div>
 
   <script>
-    function toggleMenu(){
+    function toggleMenu() {
       const navList = document.querySelector('.nav-list');
       navList.classList.toggle('active');
     }
