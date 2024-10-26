@@ -12,18 +12,19 @@ body {
 }
 
 h1{
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+h2{
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
-h2{
-    padding-top: 5px;
-    padding-bottom: 5px;
-}
-
 p {
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    line-height: 1.4em;
 }
 
 .tagline {
@@ -89,7 +90,7 @@ footer {
     position: relative;
     bottom: 0;
     width: 100%;
-    font-size: .8em;
+    font-size: .85em;
 }
 
 /* small screens */
