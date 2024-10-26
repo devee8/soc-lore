@@ -27,7 +27,8 @@ header {
 }
 
 nav {
-    background-color: #AAAAAA;
+    background-color: #EEEEEE;
+    padding: 10px;
 }
 
 nav .hamburger {
@@ -45,7 +46,7 @@ nav .nav-list {
 }
 
 nav .nav-list li {
-    margin: 0 15px;
+    margin: 0 5px;
 }
 
 nav .nav-list a {
@@ -62,13 +63,14 @@ main {
 }
 
 footer {
-    background-color: #333333;
-    color: #EEEEEE;
+    background-color: #CCCCCC;
+    color: #333333;
     text-align: center;
-    padding: 1em 0;
+    padding: 10px;
     position: relative;
     bottom: 0;
     width: 100%;
+    font-size: .8em;
 }
 
 /* small screens */
