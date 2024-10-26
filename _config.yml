@@ -1,6 +1,3 @@
-remote_theme: pages-themes/merlot@v0.2.0
-plugins:
-- jekyll-remote-theme
 title: SoC Lore
 description: Character and lore for the game Sword of Convallaria
 show_downloads: false
