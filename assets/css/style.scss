@@ -11,6 +11,13 @@ body {
     font-family: Arial, sans-serif;
 }
 
+.container{
+    max-width: 1200px;
+    width: 50%;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
 header {
     background-color: #CCCCCC;
     color: #333333;
@@ -46,7 +53,7 @@ nav .nav-list a {
 }
 
 nav .nav-list a:hover {
-    text-decoration: dotted;
+    text-decoration: underline;
 }
 
 main {
@@ -65,6 +72,10 @@ footer {
 
 /* small screens */
 @media (max-width: 600px) {
+    .container {
+        width: 100%;
+    }
+
     nav .nav-list {
         display: none;
         flex-direction: column;
