@@ -98,9 +98,15 @@ div.character-table + table {
     padding: 5px;
 }
 
-div.character-table + thead th {
+div.character-table + table thead th {
+    padding: 10px 5px;
     text-align: left;
     font-weight: bold;
+}
+
+div.character-table + table thead td {
+    padding: 5px;
+    text-align: left;
 }
 
 /* small screens */
