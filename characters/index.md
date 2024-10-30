@@ -5,11 +5,13 @@ title: Characters
 
 # Characters
 
-| Name |
-| ---- |
-| [Edda](./edda.md) |
-| [Gloria](./gloria.md) |
-| [Inanna](./inanna.md) |
-| [Rawiyah](./rawiyah.md) |
-| [Safiyyah](./safiyyah.md) |
-| [Simona](./simona.md) |
+| Name | Faction |
+| ---- | ------- |
+| [Col](./col.md) | Mercenary |
+| [Edda](./edda.md) | Iria |
+| [Gloria](./gloria.md) | The Union |
+| [Inanna](./inanna.md) | Iria |
+| [Momo](./momo.md) | Vlder Tribes |
+| [Rawiyah](./rawiyah.md) | Sword of Convallaria |
+| [Safiyyah](./safiyyah.md) | Iria |
+| [Simona](./simona.md) | The Union |
