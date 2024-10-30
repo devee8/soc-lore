@@ -94,6 +94,15 @@ footer {
     font-size: .85em;
 }
 
+div.character-table + thead table {
+    padding: 5px;
+}
+
+div.character-table + thead th {
+    text-align: left;
+    font-weight: bold;
+}
+
 /* small screens */
 @media (max-width: 800px) {
     .container {

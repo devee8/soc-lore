@@ -5,6 +5,8 @@ title: Characters
 
 # Characters
 
+<div class="character-table"></div>
+
 | Name | Faction |
 | ---- | ------- |
 | [Col](./col.md) | Mercenary |
