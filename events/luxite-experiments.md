@@ -6,14 +6,16 @@ Tranquillo of the Darklight is known to conduct horrible Luxite experiments that
 
 While most do not survive the Luxite experiements there are a few that are known to have survived.
 
-## Beryl
+## Known Subjects
+
+### Beryl
 
 [Beryl](../characters/beryl.md) was experimented on as a young child.  The experiments stunted her physical and mental growth but otherwise left Beryl relatively unscathed.
 
-## Guzman
+### Guzman
 
 [Guzman](../characters/guzman.md) underwent Luxite experiments as an adult. After the experiments he no longer resembled his former human self and much of his humanity was lost.
 
-## Momo
+### Momo
 
 The Luxite experiments left [Momo](../characters/momo.md) with visible physical scars and transformations.  It may have also affected her mind.

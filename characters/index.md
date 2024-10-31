@@ -9,7 +9,7 @@ title: Characters
 
 | Name | Faction |
 | ---- | ------- |
-| [Acambe](./acambe.md) |  |
+| [Acambe](./acambe.md) | Elaman |
 | [Alexei](./alexei.md) | Luccia |
 | [Beryl](./beryl.md) | Sword of Convallaria |
 | [Cocoa](./cocoa.md) | Mercenary |
