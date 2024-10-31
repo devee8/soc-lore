@@ -10,4 +10,6 @@ Her goal in Iria is to win in battle and bring victory to the Union so that she 
 
 ## Upon the Scorched Earth
 
+During a battle Simona captures [Alexei](./alexei.md).  They travel for a while until Simona decides to let Alexei go.
+
 In the Upon the Scorched Earth event Simona demonstrated her battle prowness in a training session against [Gloria](./gloria.md) and Teadon.

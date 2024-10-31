@@ -9,10 +9,17 @@ title: Characters
 
 | Name | Faction |
 | ---- | ------- |
+| [Acambe](./acambe.md) |  |
+| [Alexei](./alexei.md) | Luccia |
+| [Beryl](./beryl.md) | Sword of Convallaria |
+| [Cocoa](./cocoa.md) | Mercenary |
 | [Col](./col.md) | Mercenary |
 | [Edda](./edda.md) | Iria |
+| [Faycal](./faycal.md) | Sword of Convallaria |
 | [Gloria](./gloria.md) | The Union |
+| [Guzman](./guzman.md) | Darklight |
 | [Inanna](./inanna.md) | Iria |
+| [Maitha](./maitha.md) | Sword of Convallaria |
 | [Momo](./momo.md) | Vlder Tribes |
 | [Rawiyah](./rawiyah.md) | Sword of Convallaria |
 | [Safiyyah](./safiyyah.md) | Iria |
