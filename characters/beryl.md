@@ -4,7 +4,7 @@
 
 Beryl is a genius litle Sorceress.  She is talkative, curious and interested in Luxite research.
 
-As a young child she was a subject of Luxite experiments.  These experiments stunted her physical and mental growth.  Beryl looks and acts younger than she actually is.
+As a young child she was a subject of [Luxite experiments](../events/luxite-experiments.md).  These experiments stunted her physical and mental growth.  Beryl looks and acts younger than she actually is.
 
 After escaping she wandered the world as a Sorceress.  Due to being a Sorceress adn her Luxite research she was hunted by the Papal States.
 

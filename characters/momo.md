@@ -2,7 +2,7 @@
 
 ## Biography
 
-Momo is a Vlderian girl who was captured and experimented on by the Darklight's Tranquillo.  She underwent Tranquillo's Luxite transformation experiments that fused Luxite into subjects.
+Momo is a Vlderian girl who was captured and experimented on by the Darklight's Tranquillo.  She underwent Tranquillo's [Luxite experiments](../events/luxite-experiments.md) that fused Luxite into subjects.
 
 The experiments scarred Momo physically and possibly mentally but left her with Luxite powers and a darkness in her heart.
 
