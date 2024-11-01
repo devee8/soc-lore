@@ -27,3 +27,10 @@ title: Characters
 | [Rawiyah](./rawiyah.md) | Sword of Convallaria |
 | [Safiyyah](./safiyyah.md) | Iria |
 | [Simona](./simona.md) | The Union |
+
+<script>
+    $(document).ready(function() {
+        const table = $('.character-table + table');
+        table.DataTable();
+    });
+</script>
