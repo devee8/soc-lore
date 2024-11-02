@@ -30,16 +30,16 @@ p {
 
 a {
     color: #0000FF;
+    weight: bold;
     text-decoration: none;
 }
 
 a:visited {
-    color: #9999FF;
+    color: #6666FF;
 }
 
 a:hover {
-    color: #9999FF;
-    font-weight: bold;
+    color: #FF4545;
     text-decoration: underline;
 }
 
