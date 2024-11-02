@@ -28,6 +28,20 @@ p {
     line-height: 1.5em;
 }
 
+a {
+    color: #0000FF;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #0000FF66;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .tagline {
     font-style: italic;
 }
