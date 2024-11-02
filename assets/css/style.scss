@@ -94,8 +94,12 @@ footer {
     font-size: .85em;
 }
 
-table.dataTable>tbody>tr:nth-child(even) {
+table.dataTable>thead>tr {
     background-color: #00000022;
+}
+
+table.dataTable>tbody>tr:nth-child(even) {
+    background-color: #00000010;
 }
 
 /* small screens */

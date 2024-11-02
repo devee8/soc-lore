@@ -31,6 +31,6 @@ title: Characters
 <script>
     $(document).ready(function() {
         const table = $('.character-table + table');
-        table.DataTable();
+        table.DataTable({pageLength: 25});
     });
 </script>
