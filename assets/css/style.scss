@@ -110,7 +110,7 @@ div.character-table + table tbody td {
     text-align: left;
 }
 
-div.character-table + table tbody tr:nth-child(even) {
+table.dataTable tbody tr.stripe2{
     background-color: #00000022;
 }
 
