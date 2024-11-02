@@ -110,9 +110,10 @@ div.character-table + table tbody td {
     text-align: left;
 }
 
-table.dataTable>tbody>tr {
+div.character-table + table tbody tr:nth-child(even) {
     background-color: #00000022;
 }
+
 
 /* small screens */
 @media (max-width: 800px) {
