@@ -8,4 +8,4 @@ During their final mission Candlelight sacrificed his life to complete the missi
 
 Candlelight had a son and daughter.
 
-We later meet Candlelight again, but this time it is the previous Candlelight's daughter.  We learn that the name Candlelight is a code name passed from one Hanged Man to another.
+We later meet Candlelight again, but this time it is the previous Candlelight's daughter.  We learn that the name Candlelight is a code name passed from one Hanged Man to another.  Presumably it is this verison of Candlelight that is playable in the game.
