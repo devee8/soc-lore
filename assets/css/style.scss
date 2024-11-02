@@ -102,11 +102,16 @@ div.character-table + table thead th {
     padding: 10px 5px;
     text-align: left;
     font-weight: bold;
+    background-color: #00000033;
 }
 
 div.character-table + table tbody td {
     padding: 5px;
     text-align: left;
+}
+
+div.character-table + table tbody tr:nth-child(even) {
+    background-color: #00000022;
 }
 
 /* small screens */
