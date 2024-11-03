@@ -2,4 +2,6 @@ This web site compiles the lore for the game Sword of Convallaria.  The characte
 
 The purpose of this site is to create a place where players can read up about character lore and stories they may have missed or forgotten about. Players are encouraged to play the game to get the first hand experience of the game's lore and stories.
 
-[Characters](characters)
+* [Characters](characters)
+* [Events](events)
+* [Factions](factions)
