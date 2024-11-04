@@ -23,6 +23,7 @@ title: Characters
 | [Faris](./faris.md) | Iria | No |
 | [Fernando](./fernando.md) | Darklight | No |
 | [Faycal](./faycal.md) | Sword of Convallaria | Yes |
+| Garcia | Papal States | Yes |
 | [Gloria](./gloria.md) | The Union | Yes |
 | [Guzman](./guzman.md) | Darklight | Yes |
 | [Hasna](./hasna.md) | Elaman | Yes |
@@ -32,15 +33,21 @@ title: Characters
 | [Leonide](./leonide.md) | Papal States | Yes |
 | [LilyWill](./lilywill.md) | Vlder Tribes | Yes |
 | [Lutfi](./lutfi.md) | Iria | No |
+| Magnus | Iria | Yes |
 | [Maitha](./maitha.md) | Sword of Convallaria | Yes |
+| Miguel | Mercenary | Yes |
 | [Momo](./momo.md) | Vlder Tribes | Yes |
+| Nergal | Iria | Yes |
 | [NonoWill](./nonowill.md) | Vlder Tribes | Yes |
+| Nungal | Iria | Yes |
 | [Rawiyah](./rawiyah.md) | Sword of Convallaria | Yes |
 | [Safiyyah](./safiyyah.md) | Iria | Yes |
 | [Samantha](./samantha.md) | Papal States | Yes |
 | [Sylvia](./sylvia.md) | Iria | No |
 | [Simona](./simona.md) | The Union | Yes |
+| Teadon | The Union | Yes |
 | [Tranquillo](./tranquillo.md) | Darklight | No |
+| Xavier | Iria | Yes |
 
 <script>
     $(document).ready(function() {
