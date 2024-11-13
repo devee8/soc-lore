@@ -2,6 +2,12 @@
 
 ## Biography
 
+NonoWill is the younger sister of [LilyWill](./lilywill.md).  She is a Vlder like her sister.  She is quiet but brave.
+
+NonoWill has a beautiful singing voice but she rarely shares this with others. She is concerned about how the Vlderians have been oppressed, enslaved by Elaman and betrayed by Iria in the past and has vowed to find a way to save her people from experiencing the same fate again.
+
+When war broke out between Iria, the Papal States and the Union, NonoWill saw it as an opportunity for change. She left the Vltar Mountain to find a better future for her people.
+
 ## Bond Tale: Lost Flute
 
 MC finds NonoWill lost in throught in Elysium.  MC gives NonoWill her flute which MC retrieved from the Sea of Chaos. This is NonoWill's favorite flute and brings back many happy memories, including those she shared in the town of Convallaria with the MC.  NonoWill thanks MC for expending the effort to find her flute in the Sea of Chaos.
