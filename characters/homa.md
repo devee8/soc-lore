@@ -48,7 +48,7 @@ They participate in "The Great Magic Potion Battle" with Homa and her parrots as
 
 Miguel smells something awful. Cocoa spots a "tasty ingredient" moving on the ground. Beyrl says it's her pet chick and she is surprised it hatched. Miguel reveals the pet chick made a poo on him. Garcia jokes that Miguel is so maternal. Beyrl says the chick can join the next match.
 
-The match is a potion battle with magical concoctions. Gusman, Cocoa and MC make up one team. Maitha, Garcia and Miguel make up another. In this battle Goli is able to steal effects from others, also Homa calls Goli a "her". Garcia defeats Cocoa. Miguel defeats Guzman. 
+The match is a potion battle with magical concoctions. Guzman, Cocoa and MC make up one team. Maitha, Garcia and Miguel make up another. In this battle Goli is able to steal effects from others, also Homa calls Goli a "her". Garcia defeats Cocoa. Miguel defeats Guzman. 
 
 While fighting Maitha it's revealed that Homa can hear the thoughts of the parrots using a skill called perception. MC defeats Maitha.
 
