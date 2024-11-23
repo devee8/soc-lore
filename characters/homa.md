@@ -43,3 +43,23 @@ Beryl then steps up to the box and asks for the restoration of the materials tha
 Homa calls MC "boss" and explains that in Hashalaram that's how they address employers, but it's also used to tease. Homa proposes to team up with MC. MC says the match is a solo showdown, but Homa says there isn't a rule that they can't strategize together. MC asks why Homa is helping him. Homa says it's Shahin's call. 
 
 They participate in "The Great Magic Potion Battle" with Homa and her parrots assisting MC in the competion.  Samatha defeats Guzman. Miguel defeats Garcia. Gloria defeats Maitha. Cocoa and Acambe defeate each other. MC defeats Agata then Samantha, Miguel and Gloria. 
+
+### Act III: Guarding Wishes 2
+
+Miguel smells something awful. Cocoa spots a "tasty ingredient" moving on the ground. Beyrl says it's her pet chick and she is surprised it hatched. Miguel reveals the pet chick made a poo on him. Garcia jokes that Miguel is so maternal. Beyrl says the chick can join the next match.
+
+The match is a potion battle with magical concoctions. Gusman, Cocoa and MC make up one team. Maitha, Garcia and Miguel make up another. In this battle Goli is able to steal effects from others, also Homa calls Goli a "her". Garcia defeats Cocoa. Miguel defeats Guzman. 
+
+While fighting Maitha it's revealed that Homa can hear the thoughts of the parrots using a skill called perception. MC defeats Maitha.
+
+Garcia teleports behind Miguel as if to attack him but she's just teasing and was just trying to cause a disruption. She teleports back. MC defeats Garcia.
+
+Beryl releases her "Maid Wolf Mk II" into the field. MC uses perception on a wolf and finds out the were created to fight Calamity. When there is no Calamity Beryl forgets about them. Another wolf reveals they are in charge of cleaning the master's room but it never cleans rooms because it's the other wolves that make the mess. 
+
+Using perception on Miguel MC finds out that while the chick smells bad he sort of likes it's fluffy touch. Miguel understands why Col likes fuzzy things. Miguel is defeated by MC and MC promises Goli cookies. 
+
+Miguel tells Garcia she still lost the match. Garcia says she didn't join just to win. Cocoa notices that Beryl is no where to be seen. Agata says she saw Beryl head to Paradise. Samantha guesses she went to prepare something. MC notices Beryl has been missing since the start of the match. Homa appears and announces to everyone that Beryl has something important to tell them at Elysium. No one knows why, but Homa says judging by Beryl's expression it's not serious. 
+
+### Act IV: 
+
+Back at Paradise Beryl announces the winning team: Cocoa's team and Guzman scored a point. Cocoa asks Beryl where she went as Cocoa was chatting with her but then realized she was talking to Miguel. Beryl says she was getting ready for the next showdown but that she can't say what it is yet (this leads into Act IV which is time locked in-game). 
