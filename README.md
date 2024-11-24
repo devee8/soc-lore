@@ -1,6 +1,10 @@
 # soc-lore
 Character and lore for the game Sword of Convallaria
 
+## Contributing
+
+For corrections or additions create a new Issue or Discussion.
+
 ## GitHub Pages using Jekyll
 
 * `README.md` - this readme
