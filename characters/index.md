@@ -7,47 +7,49 @@ title: Characters
 
 <div class="character-table"></div>
 
-| Name | Faction | Playable |
-| ---- | ------- |
-| [Acambe](./acambe.md) | Elaman | Yes |
-| [Agata](./agata.md) | Luccia | Yes |
-| [Alexei](./alexei.md) | Luccia | Yes |
-| [Auguste](./auguste.md) | The Union | Yes |
-| [Beryl](./beryl.md) | Sword of Convallaria | Yes |
-| [Candlelight](./candlelight.md) | Iria | Yes |
-| [Caris](./caris.md) | Papal States | Yes |
-| [Cocoa](./cocoa.md) | Mercenary | Yes |
-| [Col](./col.md) | Mercenary | Yes |
-| [Dantalion](./dantalion.md) | Iria | Yes |
-| [Edda](./edda.md) | Iria | Yes |
-| [Faris](./faris.md) | Iria | No |
-| [Fernando](./fernando.md) | Darklight | No |
-| [Faycal](./faycal.md) | Sword of Convallaria | Yes |
-| Garcia | Papal States | Yes |
-| [Gloria](./gloria.md) | The Union | Yes |
-| [Guzman](./guzman.md) | Darklight | Yes |
-| [Hasna](./hasna.md) | Elaman | Yes |
-| [Homa](./homa.md) | Elaman | Yes |
-| [Iggy](./iggy.md) | Vlder Tribes | Yes |
-| [Inanna](./inanna.md) | Iria | Yes |
-| [Leonide](./leonide.md) | Papal States | Yes |
-| [LilyWill](./lilywill.md) | Vlder Tribes | Yes |
-| [Lutfi](./lutfi.md) | Iria | No |
-| Magnus | Iria | Yes |
-| [Maitha](./maitha.md) | Sword of Convallaria | Yes |
-| Miguel | Mercenary | Yes |
-| [Momo](./momo.md) | Vlder Tribes | Yes |
-| Nergal | Iria | Yes |
-| [NonoWill](./nonowill.md) | Vlder Tribes | Yes |
-| Nungal | Iria | Yes |
-| [Rawiyah](./rawiyah.md) | Sword of Convallaria | Yes |
-| [Safiyyah](./safiyyah.md) | Iria | Yes |
-| [Samantha](./samantha.md) | Papal States | Yes |
-| [Sylvia](./sylvia.md) | Iria | No |
-| [Simona](./simona.md) | The Union | Yes |
-| Teadon | The Union | Yes |
-| [Tranquillo](./tranquillo.md) | Darklight | No |
-| Xavier | Iria | Yes |
+| Name | Faction | Role | Playable |
+| ---- | ------- | ---- | -------- |
+| [Acambe](./acambe.md) | Elaman | Destroyer | Yes |
+| [Agata](./agata.md) | Luccia | Watcher | Yes |
+| [Alexei](./alexei.md) | Luccia | Defender | Yes |
+| [Auguste](./auguste.md) | The Union | Breaker | Yes |
+| [Beryl](./beryl.md) | Sword of Convallaria | Destroyer | Yes |
+| [Candlelight](./candlelight.md) | Iria | Watcher | Yes |
+| [Caris](./caris.md) | Papal States | Destroyer | Yes |
+| [Cocoa](./cocoa.md) | Mercenary | Defender | Yes |
+| [Col](./col.md) | Mercenary | Seeker | Yes |
+| [Dantalion](./dantalion.md) | Iria | Destroyer | Yes |
+| [Edda](./edda.md) | Iria | Watcher | Yes |
+| [Faris](./faris.md) | Iria | - | No |
+| [Faycal](./faycal.md) | Sword of Convallaria | Watcher | Yes |
+| [Fernando](./fernando.md) | Darklight | - | No |
+| [Garcia](./garcia.md) | Papal States | Seeker | Yes |
+| [Gloria](./gloria.md) | The Union | Watcher | Yes |
+| [Guzman](./guzman.md) | Darklight | Destroyer | Yes |
+| [Hasna](./hasna.md) | Elaman | Seeker | Yes |
+| [Homa](./homa.md) | Elaman | Breaker | Yes |
+| [Iggy](./iggy.md) | Vlder Tribes | Breaker | Yes |
+| [Inanna](./inanna.md) | Iria | Watcher | Yes |
+| [Leonide](./leonide.md) | Papal States | Breaker | Yes |
+| [LilyWill](./lilywill.md) | Vlder Tribes | Watcher | Yes |
+| [Lutfi](./lutfi.md) | Iria | - | No |
+| [Magnus](./magnus.md) | Iria | Defender | Yes |
+| [Maitha](./maitha.md) | Sword of Convallaria | Defender | Yes |
+| [Miguel](./miguel.md) | Mercenary | Watcher | Yes |
+| [Momo](./momo.md) | Vlder Tribes | Destroyer | Yes |
+| [Nergal](./nergal.md) | Iria | Defender | Yes |
+| [NonoWill](./nonowill.md) | Vlder Tribes | Seeker | Yes |
+| [Nungal](./nungal.md) | Iria | Destroyer | Yes |
+| [Rawiyah](./rawiyah.md) | Sword of Convallaria | Breaker | Yes |
+| [Safiyyah](./safiyyah.md) | Iria | Seeker | Yes |
+| [Samantha](./samantha.md) | Papal States | Watcher | Yes |
+| [Shacklulu](./shacklulu.md) | Vlder Tribes | Seeker | Yes |
+| [Simona](./simona.md) | The Union | Watcher | Yes |
+| [Sylvia](./sylvia.md) | Iria | - | No |
+| [Taair](./taair.md) | Papal States | Watcher | Yes |
+| [Teadon](./teadon.md) | The Union | Defender | Yes |
+| [Tranquillo](./tranquillo.md) | Darklight | - | No |
+| [Xavier](./xavier.md) | Iria | Breaker | Yes |
 
 <script>
     $(document).ready(function() {
