@@ -13,3 +13,7 @@ Cocoa is upbeat, but often embelishes the stories of her adventures.
 ## Sand-made Scales
 
 It is revealed that Cocoa's parents were part of a rebellion in the Mine Pit in Iria before Faris overthrew the old Irian regime and became the new king.  It is said that her father was one of the leaders of the rebels, but he was betrayed by another in the group. Cocoa's father was killed and her mother was sold to Elaman slavers.  Cocoa's mother was eventually purchased by [Acambe](./acambe.md) who tried to subjugate her.  Instead of submitting to Acambe, Cocoa's mother took her own life.  This revalation has put a rift between Cocoa and Acambe.
+
+## A Fighting Night in Beryland
+
+Takes part in the [event](../events/a-fighting-night.md)

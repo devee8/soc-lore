@@ -10,3 +10,6 @@ After escaping she wandered the world as a Sorceress.  Due to being a Sorceress 
 
 While running from the Papal States she ran into the Sword of Convallaria and settled down in Convallaria.  She set up a Luxite workshop in Convallaria to continue her research and solve the mysteries of the world.
 
+## A Fighting Night in Beryland
+
+Takes part in the [event](../events/a-fighting-night.md)

@@ -10,4 +10,7 @@ She is always optimistic, upbeat and kind.  These traits often push her to make 
 
 Nevertheless Maith believes that as long as we do not lose hope everything will be okay.
 
+## A Fighting Night in Beryland
+
+Takes part in the [event](../events/a-fighting-night.md)
 

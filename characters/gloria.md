@@ -13,3 +13,7 @@ She was sent by the [Council](../factions/union-council.md) to Iria after the [W
 ## Upon the Scorched Earth
 
 In the Upon the Scorched Earth event Gloria and Teadon participated in a training session with [Simona](./simona.md).
+
+## A Fighting Night in Beryland
+
+Takes part in the [event](../events/a-fighting-night.md)
