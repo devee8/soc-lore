@@ -66,7 +66,7 @@ Calamaties appear. Agata, Garcia and Maitha are disabled. MC uses Baloor's skill
 
 MC investigates furhter and finds out the Calamities have figured out how to summon the Colossal Calamity.
 
-### Act VII: 
+### Act VII: Lost and Found
 
 MC appears in a new area after having activated a mechanism and falling down. MC is confronted by many Calamities and calls on Baloor's power again. 
 
@@ -75,3 +75,20 @@ After defeating the Calamaties another shows up and vomits the parts up. Agata a
 Garcia is disappointed they couldn't find the parts first. Agata chides Garcia saying that Garcia cares about the competition. Garcia denies this. Agata says wanting to win isn't anything to be ashamed of and to just try your best. Garcia complains that Agata pat her head while saying such stuff.
 
 
+### Act VIII: Ice Cracks
+
+The group meets up at Paradise. Agata is laughing. Garcia is wondering why Agata is smiling when they lost the last round. Agata responds that Garcia must be enjoying it as well since she is also smiling. Samantha tells Garcia that she hasn't seen her this happy in a long time. Garcia becomes flustered and goes to check on the wishing machine set up progress. 
+
+Beryl says she fixed up the wishing machine with the missing parts. Cocoa says they should check it now that it's fixed. Beryl says there's no need to check it and assures them it is fine. Cocoa notices that Beryl hasn't equipped it yet. Beyrl is silent. Garcia offers to help with the set up but Beryl declines. Beryl opens the machine and it appears to be functioning. She says she's just worried it will run out of energy if she installs it now. 
+
+Gloria asks why the wishing machine is emitting cold air. Beryl tries to close the door but she can't and ends up pushing the wishin machine over the ledge into the Sea of Chaos. Cocoa is suprised and asks why Beryl did that. Beryl gets mad and says she wasn't trying to do that. Cocoa jumps over the ledge to get the machine. She if followed by Guzman and Maitha. 
+
+As the others contemplate following Cocoa into the Sea of Chaos Beryl is in a panic saying she doesn't want to die yet. Agata asks Beryl if she knows something. Miguel notices the ice from the wishing machine is spreading and tells everyone to step back as it's freezing everything. But Beryl is stuck in the ice and she exclaims that she doesn't want to become an ice sculpture. Homa asks Beryl what happened. Homa's parrots circle Beryl. Beryl waves her arms around and suddenly everything is covered in ice. 
+
+### Act IX: Saving Chaos 1
+
+Garcia tells Beryl to tell them what's going on. Beryl says it's the wishing machine's fault. She tried to put it back together but it wouldn't accept the crucial part. She says the machine isn't a normal machine. It's more like a puppet. The MC says they should save Cocoa and Guzman and then think about fixing the machine. 
+
+The group finds themselves in an area covered with ice. Samantha assures the MC that Cocoa and the others are probably looking for the machine so if they find the machine they should be able to meet up. Agata is excited at the challenges and mystery ahead of them. Calamities appear and Agata and Garcia defeat them. Agata and Garcia go off to fight other Calamaties while the rest fight the ones that appear on the map.  Homa calls in and has Shahin give the MC the haste ability to help with the ice. 
+
+After the battle Agata and Garcia rejoin the group. Agata says the ice is getting thicker in one direction so that is where they should head. Acambe says he has a bad feeling about this but Agata reassures him that they have a reliable leader (the MC). The MC says they can't abandon Cocoa and the others. Samantha says they are with MC no matter what decision they make. Gloria agrees. 
