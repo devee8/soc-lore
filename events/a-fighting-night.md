@@ -92,3 +92,66 @@ Garcia tells Beryl to tell them what's going on. Beryl says it's the wishing mac
 The group finds themselves in an area covered with ice. Samantha assures the MC that Cocoa and the others are probably looking for the machine so if they find the machine they should be able to meet up. Agata is excited at the challenges and mystery ahead of them. Calamities appear and Agata and Garcia defeat them. Agata and Garcia go off to fight other Calamaties while the rest fight the ones that appear on the map.  Homa calls in and has Shahin give the MC the haste ability to help with the ice. 
 
 After the battle Agata and Garcia rejoin the group. Agata says the ice is getting thicker in one direction so that is where they should head. Acambe says he has a bad feeling about this but Agata reassures him that they have a reliable leader (the MC). The MC says they can't abandon Cocoa and the others. Samantha says they are with MC no matter what decision they make. Gloria agrees. 
+
+Miguel asks if we are really going to risk our lives for the worthless junk. He decides to leave the group and sit this one out. Garcia says that's not cool, but Garcia says he knows what his limit is. He gives MC his last fire bomb before he leaves. 
+
+### Act X: Saving Chaos 2
+
+We see Cocoa, Guzman and Maitha facing off against Calamities. The MC and others find them. Cocoa is touched that they cam to rescue them, but Garcia says they came for the wishing machine. Acambe and Gloria appear near the wishing machine. Cocoa warns them to stay away from it as a gust of cold air hits and pushes them into the wishing machine. Gloria and Acambe get absorbed into the machine. 
+
+Homa contacts the MC and has Shahin give the MC the Haste and Push/Pull abilities.  MC uses Push/Pull to push a couple of Calamaties over the edge. The group takes on the rest of the Calamaties. 
+
+The group determines they need to shut the wishing machine down. Beryl appears during the battle to fit the missing parts back into the machine. Beryl tries to put the parts back in but the wishing machine blowser her away. She leaves it up to the group to put the parts back.
+
+A huge Calamaty appears. Agata tells the MC to focus on the wishing machine while they focus on the Calamaties. Samantha agrees. Maitha who has been silent comments that the Bond between these people is eviable. 
+
+After placing the parts back into the wishing machine Gloria and Acambe reappear. Samantha and Agata rejoice. Garcia quips that Agata is still having fun. Agata asks Garcia how it feels fighting alongside her and teases that it's pretty good right? Garcia says Agata is talking crazy. Cocoa thanks everyone for rescuing them. Gloria echos that sentiment. 
+
+Garcia asks where Beryl got blown off too and says she doesn't want to waste time rescuing her, but Samantha says Garcia really wants to save Beryl. Garcia denies this. Cocoa stands up for Beryl saying that even if Beryl made a mistake she still showed up to help and didn't run away. The MC says they should rescue Beryl and Cocoa agrees. 
+
+A Calamity suddently appears, but Guzman steps in front of it and takes the hit, shielding the MC from harm. Garcia defeats the Calamity. Guzman is hurt. Garcia says she didn't know Guzman was so warm-hearted. Cocoa says it's her fault Guzman got hurt because she kept sending Guzman into battle. Samantha says not to worry. Guzman is not badly hurt, just too tired. Beryl shows up and apologizes. 
+
+Now the wishing machine is functional again. Beryl says the rights to use it haven't been decided yet. The MC and Cocoa fixed up the wishing machine, but the MC says Guzman saved him so he gives up his claim to Guzman. The final will be between Guzman and Cocoa, but Cocoa comments about something about Guzman's daughter and wonders if she should continue. 
+
+### Act XI: Imperfect Time and Space
+
+Back at Paradise Beryl announces the next challenge is her favorite game: Statues. Cocoa steps up to say something, but Beryl interrupts and says she has upgraded the Statues game and she will also join. Cocoa says she will drop out of the challenge. Garcia says Cocoa must have realized how dull this contest is, but Cocoa says that's not it. She unconvincingly says she is just tired. Agata asks Cocoa if she's being bullied to quit. Cocoa says the thing is that she was planning to use Guzman from the start to help her win. She wanted to use the wishing machine to see her mom and dad. MC asks Cocoa why she's giving up now then? Cocoa says she has made it this far without her mom and dad and that Guzman needs the machine more than she does. She tells the others to stop trying to persuade her because she might change her mind as she wants to see her mom and dad. Samantha says her parents would be proud of her. Maitha says everyone will always be by her side. Agata is disappointed there will be no final showdown but respects Cocoa for her choice. 
+
+Cocoa asks Guzman if he still remembers his wish. Guzman roars in response. Cocoa has placed the bow of Guzman's daughter into the machine and tells Guzman to make his wish. Guzman wishes his daughter would come back. A little girl walks out of the machine and Guzman calls out his daughter's name, Sascha. But Sascha things Guzman is a monster. Guzman tells her not to be scared and he won't come closer. He steps back. Sascha asks if he is really her dad. She has forgotten her dad's face, but remembers his hands. She remembers her dad would comb her hair and place her favorite red bow with his hands. She remembers her dad would hum lullabies next to her bed and let her ride on his shoulders. She says her dad said he would protect her for her whole life. Guzman becomes mad because he failed to protect her. Sascha says don't be mad and that she is scared. Guzman says okay. 
+
+Maitha appears next to a Calamaty and comments that is seems the people of this world view the Calamity as an enemy. Everyone except the MC, Maitha, the Calamity, Guzman, Sascha and the cat disappear. The cat asks the MC if he is spellbound. The MC asks if that is Maitha. The cat says the world has gone haywire and the MC hasn't noticed. The Cat says that if the MC doesn't correct things he will be stuck between fantasy and reality unable to tell them apart. MC asks if the wishing machine caused this. The Cat reminds the MC that no wish comes true so easily. To alter an outcome takes much effort and sacrifice. 
+
+Sacha is talking to Guzman and asks him to tie up her hair.  The MC steps away and the Cat asks him if he is running away. The MC says he will head back to Elysium and rest first. It is perhaps to give Guzman more time to spend with Sascha. The Cat says the MC is either compassionate or indecisive. Guzman hugs Sascha.
+
+### Act XII: Just a Dream
+
+The MC is sleeping when Homa appears. Baloor wakes the MC by pecking on their head. Homa says Beryl sent them to get the MC for the paradise event. The MC asks if it's another event. Homa says it's the first one for her. It seems we are at the beginning of the story again. Was it just a dream?
+
+MC walks around Elysim asking the others about the wishing machine. MC says that even if the wishing machine can't grant any more wishes they can still use it to store food. However the machine is nowhere to be found.
+
+Homa: She says she is ready to go when MC is. 
+
+Gloria: Says she also dreamt of the wishin machine. She made a wish to get Teadon a new set of kitcheware and Teadon made desserts for her. She also had a dream in her dream where they fought together to acheive an impossible goal. 
+
+Garcia: Says she destroyed the wishing machine, but says that's a lie. She and Samantha wouldn't do that. 
+
+Agata: Agata says she is looking forward to the competition. What matters to her is seeing everyone working hard together towards one goal, not the prize. Alexei's voice can be heard saying that he broke the weapon Agata had him work on. 
+
+Miguel: Miguel doesn't know what this "wishing machine" is and it sounds as ridiculous as saying he could cook. Col's voice can be heard telling Miguel that she has made a mud pie feast. 
+
+Samantha: Samantha says the MC looks a bit down. When asked about the wishing machine she doesn't know what that is. She says Elysium is cozy but deep down they all have regrets about their past. She says a wishing machine could make up for some things. 
+
+Acambe: Says he had a dream last night that he created the perfect juice blend. The juice suited all tastes and made a hefty profit. When he woke up he couldn't remember the recipe.  MC asks if it was pomegranate juice. Acambe doesn't know and wants someone to do a dream divination for him. 
+
+Cocoa: She is wondering what she should have for dinner. She asks MC what they want and says she's quite the chef. When asked about the wishing machine she doesn't know about it, but wonders if it can get her a new pot. 
+
+Guzman: Is remembering the bow. The bow was worn and now it's gone. He lost Sascha's favorite bow. Guzman becomes mad. MC says he will find the bow and remembers he clearly saw Guzman had the bow before.
+
+Maitha: Asks MC why they look troubled. She says MC can share heir troubles with her. She also doesn't know about a wishing machine. She says if one exists they shouldn't tell Boss (Rawiyah) and Faycal because Rawiyah would wish for a giant wine cellar and Faycal an oversized archery training ground.  Safiyyah's voice can be heard admonishing Rawiyah for passing out again and to go to bed to sleep. 
+
+After talking to everyone MC goes to find other information.
+
+Maitha appears and comments how this is a unique adventure unlike any other. She says she is impressed by everyone. The MC is confused. Maitha then says Beryl has invented a machine that grants wishes. MC asks if the machine has been found. Maitha asks if he found it and knew about it all along. MC says yes and the machine even granted Guzman his wish to see his daughter. Maitha is surprised at that and says don't let Guzman hear that or he will go berserk. Then Maitha says Beryl's Wish Machine isn't that powerful. Beryl's machine can give people a refreshing drink or a fluffy pillow. On mornings it has a special Calamity wake-up service.
+
+MC comments that this wishing machine seems to be a service bot.  MC wonders if the other wishing machine will pop up again one day. 
+
