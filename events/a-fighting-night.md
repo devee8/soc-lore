@@ -155,3 +155,13 @@ Maitha appears and comments how this is a unique adventure unlike any other. She
 
 MC comments that this wishing machine seems to be a service bot.  MC wonders if the other wishing machine will pop up again one day. 
 
+### Interval I: Gear Master
+
+Two Calamities are searching a house to find an object hidden by the Sorceress (likely Beryl). It's noted that the Sorceress likes to create mechanisms, but is forgetful and falls into her own traps. They plan to search her room for clues. They go through each room reading clues to get to the next.
+
+We find that Zerel, Beyrl's old pet is considered "the discrace of the Calamities".
+
+### Interval II: 
+
+A lone Calamity makes its way through rooms without getting detected by guards.
+
