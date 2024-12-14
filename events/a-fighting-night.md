@@ -161,7 +161,25 @@ Two Calamities are searching a house to find an object hidden by the Sorceress (
 
 We find that Zerel, Beyrl's old pet is considered "the discrace of the Calamities".
 
-### Interval II: 
+### Interval II: Thief Calamity
 
 A lone Calamity makes its way through rooms without getting detected by guards.
 
+### Interval III: The Hunt
+
+MC is in the mines. Calamities are there. Goli sees they are shiny and gives MC the ability to gain abilities (Move Again and Steal).
+
+### Interval IV: Parrot Training
+
+MC is in a jail map. Homa says that MC doesn't seem to be in sync with Baloor. They have caught Calamaties from the Sea of Chaos and put them in the jail. MC uses these to practice with Baloor. Balor gives MC and AoE skill.  The objective is to get through the Calamaties and destroy the monument then escape by getting to the extraction point.
+
+### Interval V: Go Go Maitha
+
+The MC and Maitha appear on a map. They are looking for Cocoa's dropped package. They need to get to the package but Calamities appear and rocks separate MC and Maitha. MC gains Shahin's abilities Haste and Push/Pull.
+
+When Maitha reaches the package Miguel shows up and kicks it so Maitha has to go back down. When Maitha finally reaches the package she finds Cocoa's diary.
+
+
+### Interval VI: Guardian of Stars
+
+The MC fights Calamaties using Goli's Move Again and Steal ability.
