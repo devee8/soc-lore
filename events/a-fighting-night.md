@@ -197,3 +197,9 @@ Maitha and MC encounter Calamities that are too tough to handle. They need to es
 This battle takes place in the mines. MC needs to give Cocoa 4 types of ingredients. The team gets ingredients from the slimes, boars, spiders and wolves.  Cocoa cooks up the ingredients into dishes.
 
 ### Interval X: Hunter of Nightmares
+
+Beryl sets up a challenge where MC leads a team to defeat phantoms of Acambe, Garcia and Samantha. Beyrl also participates on the opposing side. 
+
+### Interval XI: Star Shattering
+
+MC and team goes up against Calamity XVII "The Star". Beryl's final stage in her genius Sorceress' Nightmare Boot Camp. She shows off her creation, a Calamity named Tiny Tyrant Starlet. 
