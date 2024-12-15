@@ -52,7 +52,7 @@ Miguel starts off saying that it's a dirty trick the theif is playing. They are 
 
 Gloria, Miguel, Maitha, Samantha, Acambe and the MC are grouped together. Gloria says the traces led them there, but the trail has ended. Acambe says the place is eerie. Samantha says it seems they are far from Elysium. MC says this is a dimension fragment in the Sea of Chaos. Gloria says they should look for clues. Samantha agrees and says they should split up and search. Gloria recalls that before they left Beryl said whoever finds the part first scores a point. Miguel is surprised Beryl is still focused on the competition even with a part missing. 
 
-Goli gives MC perception to solve the mystery.  MC goes around the map and surmises the part was stolen by Calamaties.  They took it to another place in the Sea of Chaos to summon a Colossal Calamity. MC goes to get the part. Maitha follows him silently.
+Goli gives MC perception to solve the mystery.  MC goes around the map and surmises the part was stolen by ities.  They took it to another place in the Sea of Chaos to summon a Colossal Calamity. MC goes to get the part. Maitha follows him silently.
 
 ### Act VI: Seek the Truth 2
 
@@ -62,7 +62,7 @@ MC appears on the map commenting that this area's scent is getting closer. Maith
 
 MC talks to Maitha, but a strange force prevents MC from finding out what Maitha is thinking.
 
-Calamaties appear. Agata, Garcia and Maitha are disabled. MC uses Baloor's skill to defeat the Calamities. 
+Calamities appear. Agata, Garcia and Maitha are disabled. MC uses Baloor's skill to defeat the Calamities. 
 
 MC investigates furhter and finds out the Calamities have figured out how to summon the Colossal Calamity.
 
@@ -70,7 +70,7 @@ MC investigates furhter and finds out the Calamities have figured out how to sum
 
 MC appears in a new area after having activated a mechanism and falling down. MC is confronted by many Calamities and calls on Baloor's power again. 
 
-After defeating the Calamaties another shows up and vomits the parts up. Agata adn Garcia show up but are too late to claim the parts first.
+After defeating the Calamities another shows up and vomits the parts up. Agata adn Garcia show up but are too late to claim the parts first.
 
 Garcia is disappointed they couldn't find the parts first. Agata chides Garcia saying that Garcia cares about the competition. Garcia denies this. Agata says wanting to win isn't anything to be ashamed of and to just try your best. Garcia complains that Agata pat her head while saying such stuff.
 
@@ -89,7 +89,7 @@ As the others contemplate following Cocoa into the Sea of Chaos Beryl is in a pa
 
 Garcia tells Beryl to tell them what's going on. Beryl says it's the wishing machine's fault. She tried to put it back together but it wouldn't accept the crucial part. She says the machine isn't a normal machine. It's more like a puppet. The MC says they should save Cocoa and Guzman and then think about fixing the machine. 
 
-The group finds themselves in an area covered with ice. Samantha assures the MC that Cocoa and the others are probably looking for the machine so if they find the machine they should be able to meet up. Agata is excited at the challenges and mystery ahead of them. Calamities appear and Agata and Garcia defeat them. Agata and Garcia go off to fight other Calamaties while the rest fight the ones that appear on the map.  Homa calls in and has Shahin give the MC the haste ability to help with the ice. 
+The group finds themselves in an area covered with ice. Samantha assures the MC that Cocoa and the others are probably looking for the machine so if they find the machine they should be able to meet up. Agata is excited at the challenges and mystery ahead of them. Calamities appear and Agata and Garcia defeat them. Agata and Garcia go off to fight other Calamities while the rest fight the ones that appear on the map.  Homa calls in and has Shahin give the MC the haste ability to help with the ice. 
 
 After the battle Agata and Garcia rejoin the group. Agata says the ice is getting thicker in one direction so that is where they should head. Acambe says he has a bad feeling about this but Agata reassures him that they have a reliable leader (the MC). The MC says they can't abandon Cocoa and the others. Samantha says they are with MC no matter what decision they make. Gloria agrees. 
 
@@ -99,11 +99,11 @@ Miguel asks if we are really going to risk our lives for the worthless junk. He 
 
 We see Cocoa, Guzman and Maitha facing off against Calamities. The MC and others find them. Cocoa is touched that they cam to rescue them, but Garcia says they came for the wishing machine. Acambe and Gloria appear near the wishing machine. Cocoa warns them to stay away from it as a gust of cold air hits and pushes them into the wishing machine. Gloria and Acambe get absorbed into the machine. 
 
-Homa contacts the MC and has Shahin give the MC the Haste and Push/Pull abilities.  MC uses Push/Pull to push a couple of Calamaties over the edge. The group takes on the rest of the Calamaties. 
+Homa contacts the MC and has Shahin give the MC the Haste and Push/Pull abilities.  MC uses Push/Pull to push a couple of Calamities over the edge. The group takes on the rest of the Calamities. 
 
 The group determines they need to shut the wishing machine down. Beryl appears during the battle to fit the missing parts back into the machine. Beryl tries to put the parts back in but the wishing machine blowser her away. She leaves it up to the group to put the parts back.
 
-A huge Calamaty appears. Agata tells the MC to focus on the wishing machine while they focus on the Calamaties. Samantha agrees. Maitha who has been silent comments that the Bond between these people is eviable. 
+A huge Calamity appears. Agata tells the MC to focus on the wishing machine while they focus on the Calamities. Samantha agrees. Maitha who has been silent comments that the Bond between these people is eviable. 
 
 After placing the parts back into the wishing machine Gloria and Acambe reappear. Samantha and Agata rejoice. Garcia quips that Agata is still having fun. Agata asks Garcia how it feels fighting alongside her and teases that it's pretty good right? Garcia says Agata is talking crazy. Cocoa thanks everyone for rescuing them. Gloria echos that sentiment. 
 
@@ -119,7 +119,7 @@ Back at Paradise Beryl announces the next challenge is her favorite game: Statue
 
 Cocoa asks Guzman if he still remembers his wish. Guzman roars in response. Cocoa has placed the bow of Guzman's daughter into the machine and tells Guzman to make his wish. Guzman wishes his daughter would come back. A little girl walks out of the machine and Guzman calls out his daughter's name, Sascha. But Sascha things Guzman is a monster. Guzman tells her not to be scared and he won't come closer. He steps back. Sascha asks if he is really her dad. She has forgotten her dad's face, but remembers his hands. She remembers her dad would comb her hair and place her favorite red bow with his hands. She remembers her dad would hum lullabies next to her bed and let her ride on his shoulders. She says her dad said he would protect her for her whole life. Guzman becomes mad because he failed to protect her. Sascha says don't be mad and that she is scared. Guzman says okay. 
 
-Maitha appears next to a Calamaty and comments that is seems the people of this world view the Calamity as an enemy. Everyone except the MC, Maitha, the Calamity, Guzman, Sascha and the cat disappear. The cat asks the MC if he is spellbound. The MC asks if that is Maitha. The cat says the world has gone haywire and the MC hasn't noticed. The Cat says that if the MC doesn't correct things he will be stuck between fantasy and reality unable to tell them apart. MC asks if the wishing machine caused this. The Cat reminds the MC that no wish comes true so easily. To alter an outcome takes much effort and sacrifice. 
+Maitha appears next to a Calamity and comments that is seems the people of this world view the Calamity as an enemy. Everyone except the MC, Maitha, the Calamity, Guzman, Sascha and the cat disappear. The cat asks the MC if he is spellbound. The MC asks if that is Maitha. The cat says the world has gone haywire and the MC hasn't noticed. The Cat says that if the MC doesn't correct things he will be stuck between fantasy and reality unable to tell them apart. MC asks if the wishing machine caused this. The Cat reminds the MC that no wish comes true so easily. To alter an outcome takes much effort and sacrifice. 
 
 Sacha is talking to Guzman and asks him to tie up her hair.  The MC steps away and the Cat asks him if he is running away. The MC says he will head back to Elysium and rest first. It is perhaps to give Guzman more time to spend with Sascha. The Cat says the MC is either compassionate or indecisive. Guzman hugs Sascha.
 
@@ -171,7 +171,7 @@ MC is in the mines. Calamities are there. Goli sees they are shiny and gives MC 
 
 ### Interval IV: Parrot Training
 
-MC is in a jail map. Homa says that MC doesn't seem to be in sync with Baloor. They have caught Calamaties from the Sea of Chaos and put them in the jail. MC uses these to practice with Baloor. Balor gives MC and AoE skill.  The objective is to get through the Calamaties and destroy the monument then escape by getting to the extraction point.
+MC is in a jail map. Homa says that MC doesn't seem to be in sync with Baloor. They have caught Calamities from the Sea of Chaos and put them in the jail. MC uses these to practice with Baloor. Balor gives MC and AoE skill.  The objective is to get through the Calamities and destroy the monument then escape by getting to the extraction point.
 
 ### Interval V: Go Go Maitha
 
@@ -182,4 +182,12 @@ When Maitha reaches the package Miguel shows up and kicks it so Maitha has to go
 
 ### Interval VI: Guardian of Stars
 
-The MC fights Calamaties using Goli's Move Again and Steal ability.
+The MC fights Calamities using Goli's Move Again and Steal ability.
+
+### Interval VII: Calamity Training Camp
+
+The MC is in the jail map again. Homa set up the map as a nother training scenario. MC must defeat the Calamities by destroying the monuments.  MC uses Charging Attack to defeat the Calamities.
+
+### Interval VIII: Seize the Initiative
+
+Maitha and MC encounter Calamities that are too tough to handle. They need to escape through a building on the other side of the map. Shahin gives MC the Haste and Push/Pull abilities to help Maitha get to the exit point. 
