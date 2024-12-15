@@ -191,3 +191,9 @@ The MC is in the jail map again. Homa set up the map as a nother training scenar
 ### Interval VIII: Seize the Initiative
 
 Maitha and MC encounter Calamities that are too tough to handle. They need to escape through a building on the other side of the map. Shahin gives MC the Haste and Push/Pull abilities to help Maitha get to the exit point. 
+
+### Interval IX: Cocoa's Food-venture
+
+This battle takes place in the mines. MC needs to give Cocoa 4 types of ingredients. The team gets ingredients from the slimes, boars, spiders and wolves.  Cocoa cooks up the ingredients into dishes.
+
+### Interval X: Hunter of Nightmares
