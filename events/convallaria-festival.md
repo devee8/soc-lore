@@ -50,7 +50,7 @@ More bugs appear. SchackLulu says she will get them, but Iggy tells her he will 
 
 More scorpions show up. Beryl places more barrels. They get the igredients, give them to MC and create more candied fruit.
 
-### Act IV: Sweet Cooking II
+#### Act IV Interlude
 
 SchackLulu asks if anyone wants candied fruits. Col appears. Iggy warns Col not to eat those. Col eats them anyway and says it's delicious. SchackLulu is suprised. Col says it's tastier than bugs. SchackLulu says Col is a good kid. Iggy is suprised and wonders if SchackLulu's cooking got better. He says they should all eat together. Maitha, Gloria, Taair and SchackLulu do not seem to like what they ate. Thee can only say "hmm..." MC asks what's wrong and tries some. Iggy says he can't (open his mouth) MC says their teeth are also stuck. Faycal asks what is everyone doing. No one can speak since their teeth are stuck together. Faycal goes to get a potion from Beyrl to dissolve the candied fruit. 
 
@@ -58,3 +58,16 @@ Once the candied fruit is dissolved Iggy says they were worried their teeth woul
 
 Acambe says it looks like everyone has realized candied fruit wasn't the answer to his puzzle. Maith says maybe the key is to create a sense of sweetness. She says they should start out with the symobolic food. Gloria says since it's the Convallaria Festival they shouldn't miss out on Convallaria Cake. MC says that will be difficult. Gloria says that Teadon can do it. Apparently Teadon is a master chef. 
 
+### Act V: Sweet Cooking II 
+
+Teadon, Gloria, Maitha and MC are in Elysium preparing to make Convallaria Cakes. Gloria mentions that during the Convallaria Festival in town (during Spirals of Destiny) Maitha taught her how to make different types of Convallaria Cakes. Gloria doesn't remember much other than Convallaria Cake is the sweetest treat she's had. Teadon says he has already asked Maitha for the recipe and that he and Maitha have improved upon it. Maitha says the new recipe is more complex but now they can make even more Convallaria Cakes with a pleasant sweetness. In addition they can hide surprises in the cakes. Maitha says the ingredients for Convallaria Cake are flour, honey, butter and eggs. First you mix the ingredients then you knead the dough and press it in the mould. Finally bruch a layer of egg wash on the dough and put it in the oven. 
+
+Before they can mix the ingredients Purpurus appear and eat them. Teadon says according to the monster guide Purupurus don't immediately digest the food they eat. If they defeat the Purupurus they can get the ingredients back. However they need to make sure to be careful or the ingredients might mix with the Purupuru digestive juices. 
+
+The group uses the traps they used on the scorpions to catch the Purupurus.  Unfortunately Maitha and Gloria's traps get entangled. MC holds of the Purupurus while they sort things out. Wolves also appear. 
+
+After defeating the monsters Teadon prepares the dough for the Convallaria Cakes. He asks MC what shape to make them: Purupuru, Teadon or Convallaria shaped. 
+
+#### Act V Interlude 
+
+After Act V Col appears and says the cakes are delicious. Iggy says everything tastes good to Col. Maitha says this recipe is low sugar and the sweetness is just right. Plus the smell of butter and honey is rich but not greasy. Taair comments on the taste and says he can almost feel the atmosphere of the Convallaria Festival he remembers from town. Gloria says it's the power of food. MC says each flavor is unique. Faycal comments that something strange is in the cake. Iggy wonders if it's a bug. Col says bugs are food too. MC reads a note that says "I hope those that each the cakes find happiness". Taair reads one that says "at the dock you can always find someone to watch the stars with you". Faycal reads on that says "Let's see this through to the end" and wonders who wrote those. Iggy reads one that says, "The winds of happiness will always reach Elysium". It was Maitha who collected those quotes and placed the notes in the cakes. She says if you eat a cake you might see something you once said. Faycal looks less than enthusiastic. Iggy is excited to see what others say about the cakes. Col reads a note, "I love this place. It's great to be with everyone". Col says that's the same as she feels. Gloria offers MC another cake. The MC reads, "Hope everyone can be healthy and strong" and "For health! Come on! I'll be waiting near the swings for our night run!" Iggy decides they should just forgett about the notes. Acambe says nothing.
